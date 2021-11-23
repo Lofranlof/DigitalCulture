@@ -12,6 +12,6 @@ int main()
     /*z3 = tan(a);
     z4 = sqrt(a);
     z5 = log(a);*/
-    printf("%lf\n %lf\n %lf\n %lf\n %lf\n", z1, z2 /*z3, z4, z5*/);
+    printf("lf\n %lf\n %lf\n %lf\n %lf\n", z1, z2 /*z3, z4, z5*/);//Забыл знак % у первого lf
     return 0;
 }
